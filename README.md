@@ -4,7 +4,10 @@
 
 ---
 
-### 🌐 Web Portfolio (Front-End Demo)
+### 🌐 Web Portfolio (Front-End Demos)
+- **RoastCraft Coffee Co. – Specialty Coffee Landing Page (English Demo)**
+  - 🔗 **Live Demo:** https://danghung-rbg.github.io/roastcraft-coffee-demo/ | **Code:** [roastcraft-coffee-demo](https://github.com/DangHung-rbg/roastcraft-coffee-demo)
+  - Pure HTML5, CSS3 (Flexbox/Grid), and vanilla JavaScript — responsive desktop/mobile layout, live search & category filter, slide-out demo cart, FAQ accordion, and validated contact form.
 - **Donicake – Bakery Landing Page & Storefront Demo**
   - 🔗 **Live Demo:** https://donicake.pages.dev/
   - Pure HTML5, CSS3 (Flexbox/Grid), and vanilla JavaScript — responsive desktop/mobile layout with client-side search, category browsing, and demo cart UI.
