@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Voòng Đăng Hưng 👋
 
-<!--
-**DangHung-rbg/DangHung-rbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+4th-year IoT Engineering student at PTIT (Ho Chi Minh City) — focused on **Embedded/Firmware Development (STM32/FreeRTOS, ESP32)** and **Responsive Front-End Web (HTML5, CSS3, JavaScript)**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Web Portfolio (Front-End Demo)
+- **Donicake – Bakery Landing Page & Storefront Demo**
+  - 🔗 **Live Demo:** https://donicake.pages.dev/
+  - Pure HTML5, CSS3 (Flexbox/Grid), and vanilla JavaScript — responsive desktop/mobile layout with client-side search, category browsing, and demo cart UI.
+
+### 🔧 Featured Embedded / Firmware Projects
+- **[TripGuard AI](https://github.com/DangHung-rbg/TripGuard_STM32F411_FULL_SYSTEM)** *(VEDC Semifinalist)* — STM32F411 + FreeRTOS multitasking firmware, UART DMA RX-to-IDLE (CRC16/ACK/retry), 6-state FSM, NEO-M8L GPS, SPI2 slave.
+- **[CoffeeSorter_AI](https://github.com/DangHung-rbg/CoffeeSorter_AI)** *(Student Scientific Research)* — ESP32 (WROOM-32) firmware & hardware for a 3-lane × 2-stage coffee bean sorter (6 sensors, 6 MOSFET-driven solenoids, FIFO queues, UART 115200 protocol, fault watchdog).
+
+---
+
+📫 **Contact:** voongdanghungptit@gmail.com | Fiverr: `@danghung_13`
